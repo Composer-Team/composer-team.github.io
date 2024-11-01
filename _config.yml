@@ -28,10 +28,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Composer-Team
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 layout: single
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
