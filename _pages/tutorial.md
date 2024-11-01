@@ -39,6 +39,3 @@ This allows for one accelerator design to be portable across devices and for a s
 - 4pm	- Conclusion
 - 4:30pm	- End of Tutorial
 
-
-
-
