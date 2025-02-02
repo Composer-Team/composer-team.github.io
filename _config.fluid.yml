@@ -418,7 +418,7 @@ scroll_down_arrow:
   # 头图高度不小于指定比例，才显示箭头
   # Only the height of the banner image is greater than the ratio, the arrow is displayed
   # Available: 0 - 100
-  banner_height_limit: 60
+  banner_height_limit: 50
 
   # 翻页后自动滚动
   # Auto scroll after page turning
@@ -564,7 +564,7 @@ index:
 #---------------------------
 post:
   banner_img: img/default.png
-  banner_img_height: 35
+  banner_img_height: 50
   banner_mask_alpha: 0.7
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
@@ -928,7 +928,7 @@ discuss:
 #---------------------------
 archive:
   banner_img: img/default.png
-  banner_img_height: 30
+  banner_img_height: 50
   banner_mask_alpha: 0.7
 
 
@@ -939,7 +939,7 @@ archive:
 category:
   enable: true
   banner_img: img/default.png
-  banner_img_height: 30
+  banner_img_height: 50
   banner_mask_alpha: 0.7
 
   # 分类的排序字段，前面带减号是倒序，不带减号是正序
@@ -968,7 +968,7 @@ category:
 tag:
   enable: false
   banner_img: img/default.png
-  banner_img_height: 40
+  banner_img_height: 50
   banner_mask_alpha: 0.6
   tagcloud:
     min_font: 15
@@ -985,7 +985,7 @@ tag:
 about:
   enable: false
   banner_img: img/default.png
-  banner_img_height: 40
+  banner_img_height: 50
   banner_mask_alpha: 0.9
   avatar: img/avatar.png
   name: "Fluid"
@@ -1007,7 +1007,7 @@ about:
 #---------------------------
 page:
   banner_img: img/default.png
-  banner_img_height: 35
+  banner_img_height: 50
   banner_mask_alpha: 0.7
 
 
@@ -1032,7 +1032,7 @@ page404:
 links:
   enable: true
   banner_img: img/default.png
-  banner_img_height: 35
+  banner_img_height: 50
   banner_mask_alpha: 0.7
   # 友链的成员项
   # Member item of page
