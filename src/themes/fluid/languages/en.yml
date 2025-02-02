@@ -29,9 +29,9 @@ about:
   subtitle: 'About'
 
 links:
-  menu: 'Links'
-  title: 'Links'
-  subtitle: 'Links'
+  menu: 'Team'
+  title: 'Team'
+  subtitle: 'Team Members'
 
 page404:
   menu: 'Page not found'
