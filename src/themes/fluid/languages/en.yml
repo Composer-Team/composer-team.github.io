@@ -33,6 +33,21 @@ links:
   title: 'Team'
   subtitle: 'Team Members'
 
+repo:
+  menu: 'Source'
+  title: 'Source'
+  subtitle: 'View Source Code'
+
+start:
+  menu: 'Quick Start'
+  title: 'Quick Start'
+  subtitle: 'Quick Start Guide'
+
+docs:
+  menu: 'Docs'
+  title: 'Docs'
+  subtitle: 'View Documentation'
+
 page404:
   menu: 'Page not found'
   title: 'Page not found'
