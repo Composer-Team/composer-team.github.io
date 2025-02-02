@@ -1,4 +1,4 @@
-cd ./src
+# cd ./src
 
 # Check if it is the first time to build
 if [ ! -d "./node_modules" ]; then
