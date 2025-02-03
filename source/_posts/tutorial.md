@@ -2,7 +2,7 @@
 title: Beethoven Tutorial at ISCA 2025
 date: 2025-01-29 19:01:00
 tags:
-  - ASPLOS25
+  - ISCA25
 categories:
   - Tutorials
 ---
