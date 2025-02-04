@@ -5,6 +5,8 @@ tags:
   - ISCA25
 categories:
   - Tutorials
+hidden: true
+hide: true
 ---
 
 # Beethoven Tutorial at ISCA 2025
