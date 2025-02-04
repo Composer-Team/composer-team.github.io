@@ -10,7 +10,7 @@ var subtitle = page.subtitle || page.title
   <div class="full-bg-img">
     <div class="mask flex-center" style="background-color: rgba(0, 0, 0, <%= parseFloat(banner_mask_alpha) %>)">
       <div class="banner-text text-center fade-in-up">
-        <img src="<%= url_for(theme.about.avatar) %>" alt="avatar" style="height: 128px; margin-bottom: 32px;">
+        <img src="<%= url_for(theme.about.avatar) %>" alt="avatar" style="height: 192px; margin-bottom: 24px;">
         <div class="h1">
           <% if(theme.fun_features.typing.enable && in_scope(theme.fun_features.typing.scope)) { %>
             <span id="subtitle" data-typed-text="<%= subtitle %>"></span>
