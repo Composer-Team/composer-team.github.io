@@ -26,3 +26,5 @@ Beethoven currently has support for the [AWS EC2 F1](https://aws.amazon.com/ec2/
 ## Starts From Here
 Use the [**Beethoven Hardware Template**](https://github.com/Composer-Team/beethoven-template) to start an accelerator.
 This repository contains a starting point for developing a hardware accelerator using Beethoven.
+
+![](img/front.svg)
