@@ -1049,12 +1049,24 @@ links:
       link: "https://www.lisawuwills.com",
       avatar: "img/avatars/lisa.jpeg"
     }
-    # - {
-    #   title: "Fluid Repo",
-    #   intro: "主题 GitHub 仓库",
-    #   link: "https://github.com/fluid-dev/hexo-theme-fluid",
-    #   avatar: "/img/favicon.png"
-    # }
+    - {
+      title: "Mason Ma",
+      intro: "PhD Candidate at Duke University",
+      link: "https://jiaaom.github.io",
+      avatar: "img/avatars/mason.png"
+    }
+    - {
+      title: "Mansi Choudhary",
+      intro: "PhD Student at Duke University",
+      link: "https://scholars.duke.edu/person/mansi.choudhary",
+      avatar: "img/avatars/mansi.jpeg"
+    }
+    - {
+      title: "Entropy Xu",
+      intro: "Postdoctoral researcher at HKUST",
+      link: "https://entropy-xcy.github.io",
+      avatar: "img/avatars/entropy.jpeg"
+    }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
