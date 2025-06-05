@@ -1,6 +1,6 @@
 ---
 title: Beethoven Tutorial at ISCA 2025
-date: 2025-03-29 19:01:00
+date: 2025-06-22 08:00:00
 tags:
   - ISCA25
 categories:
@@ -17,7 +17,7 @@ Welcome to the **Beethoven Tutorial**, your gateway to mastering open-source acc
 
 ## 📅 Tutorial Details
 
-- 🕒 **Duration:** Half-day
+- 🕒 **Duration:** From 8 AM to 1:30 PM
 - 👥 **Expected Audience:** 10-30 participants
 - 🌟 **Who Should Attend?** Researchers, industry professionals, and anyone interested in accelerator technologies. No prior FPGA or Beethoven knowledge required!
 
@@ -30,16 +30,21 @@ Welcome to the **Beethoven Tutorial**, your gateway to mastering open-source acc
 
 ## 🗓️ Tutorial Schedule
 
-| 🕒 Duration | 📖 Topic | 🎙️ Speaker(s) |
-|----------|-------|------------|
-| 30 min | 🎵 Intro to Beethoven & Hardware Landscape | Lisa Wu Wills |
-| 30 min | 🧩 Beethoven Abstractions | Chris Kjellqvist |
-| 40 min | 🧩 Beethoven Code Structures | Chris Kjellqvist |
-| 20 min | 🧩 Beethoven Software Stack | Chris Kjellqvist |
-| 30 min | ☁️ AWS EC2 F2 + Beethoven-generated System | Mason Ma |
-| 30 min | ⚙️ Hands-on: Build a Simple Accelerator Core | Entropy Xu |
-| 30 min | ⚙️ Hands-on: Generate an Accelerated System | Chris Kjellqvist, Mason Ma, Mansi Choudhary, Entropy Xu |
-| 30 min | 📊 Hands-on: Performance & Power Evaluation | Chris Kjellqvist, Mason Ma, Mansi Choudhary, Entropy Xu |
+| 🕒 Time | 📖 Topic | 🎙️ Speaker(s) |
+|--------|----------|----------------|
+| 8:00–8:30 | 🎵 Intro to Beethoven & Hardware Landscape | Lisa Wu Wills |
+| 8:30–9:00 | 🧩 Beethoven Abstractions & Code Structure | Chris Kjellqvist |
+| 9:00–9:30 | ⚙️ Example Accelerator Core | Mansi Choudhary |
+| 9:30–10:00 | ⚙️ Hands-on: Write Your Own Simple Accelerator Core (Chisel or Verilog) | Everyone |
+| 10:00–10:30 | ☕ Coffee Break | — |
+| 10:30–11:00 | 🧪 Beethoven Integration + Testing | Chris Kjellqvist |
+| 11:00–11:30 | ⚙️ Example Accelerator Beethoven Integration | Mason Ma |
+| 11:30–12:00 | 🧪 Hands-on: Integrate Your Own Simple Accelerated System + Testing | Everyone |
+| 12:00 | 🍱 Pick Up Box Lunch | — |
+| 12:00–12:15 | 🧪 Hands-on: Compile/Build FPGA Tarball | Everyone |
+| 12:15–1:00 | ⏳ Wait for FPGA Tarball to Build | — |
+| 1:00–1:15 | 📊 Example Accelerated System Evaluation | Chris Kjellqvist |
+| 1:15–1:30 | 📊 Hands-on: Deploy and Evaluate Your Own Accelerated System | Everyone |
 
 ### ☁️ Infrastructure
 Participants will get hands-on experience with AWS EC2 F2 cloud instances generously funded by Duke University. Deploy and experiment with your Beethoven-generated systems in the cloud seamlessly!
