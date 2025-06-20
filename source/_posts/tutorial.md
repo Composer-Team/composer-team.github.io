@@ -17,9 +17,9 @@ Welcome to the **Beethoven Tutorial**, your gateway to mastering open-source acc
 ## ‼️ [IMPORTANT] Tutorial Pre-work Form
 **For those who would like to attend the tutorial, please fill this form before attending.**
 
-**Link:** [Pre-work Form](https://docs.google.com/forms/d/e/1FAIpQLSe3bU5hK8hgMuD5Qn2M0ko4eynMEA1xqL6idGdH7wIQbm-M_g/viewform?usp=sharing&ouid=117409659567122194620)
+### **Link:** [Pre-work Form](https://docs.google.com/forms/d/e/1FAIpQLSe3bU5hK8hgMuD5Qn2M0ko4eynMEA1xqL6idGdH7wIQbm-M_g/viewform?usp=sharing&ouid=117409659567122194620)
 
-**Pre-work Instructions:** [Slides](https://drive.google.com/file/d/1t9IJVCxyMESDeTIMT-bABrBtpHlj-Byb/view?usp=sharing)
+### **Pre-work Instructions:** [Slides](https://drive.google.com/file/d/1t9IJVCxyMESDeTIMT-bABrBtpHlj-Byb/view?usp=sharing)
 
 ## 📅 Tutorial Details
 
