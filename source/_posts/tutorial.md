@@ -14,6 +14,10 @@ hide: false
 
 Welcome to the **Beethoven Tutorial**, your gateway to mastering open-source accelerator design! Beethoven lets you quickly prototype powerful accelerated systems based on the "separation of concerns" philosophy. Focus purely on crafting your accelerator Core, while Beethoven handles the heavy lifting by auto-generating optimized system components, making high-performance system creation both enjoyable and accessible!
 
+## ‼️ [IMPORTANT] Tutorial Pre-work Form
+**For those who would like to attend the tutorial, please fill this form before attending.**
+
+**Link:** [Pre-work Form](https://docs.google.com/forms/d/e/1FAIpQLSe3bU5hK8hgMuD5Qn2M0ko4eynMEA1xqL6idGdH7wIQbm-M_g/viewform?usp=sharing&ouid=117409659567122194620)
 
 ## 📅 Tutorial Details
 
