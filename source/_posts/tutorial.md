@@ -29,10 +29,10 @@ Welcome to the **Beethoven Tutorial**, your gateway to mastering open-source acc
 
 ### 🎤 Organizers
 - **Lisa Wu Wills** (Duke University, [lisa@cs.duke.edu](mailto:lisa@cs.duke.edu))
-- **Chris Kjellqvist** (Duke University)
-- **Mason Ma** (Duke University)
-- **Mansi Choudhary** (Duke University)
-- **Entropy Xu** (Hong Kong University of Science and Technology)
+- **Chris Kjellqvist** (Duke University, [christopher.kjellqvist@duke.edu](mailto:christopher.kjellqvist@duke.edu))
+- **Mason Ma** (Duke University, [jiaao.ma@duke.edu](mailto:jiaao.ma@duke.edu))
+- **Mansi Choudhary** (Duke University, [mansi.choudhary@duke.edu](mailto:mansi.choudhary@duke.edu))
+- **Entropy Xu** (Hong Kong University of Science and Technology, [eeentropy@ust.hk](eeentropy@ust.hk))
 
 ## 🗓️ Tutorial Schedule
 
